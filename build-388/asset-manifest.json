@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-388/static/js/main.06a41cd0.chunk.js",
+    "main.js.map": "/build-388/static/js/main.06a41cd0.chunk.js.map",
+    "runtime-main.js": "/build-388/static/js/runtime-main.7b4da2e7.js",
+    "runtime-main.js.map": "/build-388/static/js/runtime-main.7b4da2e7.js.map",
+    "static/js/2.f07f70c8.chunk.js": "/build-388/static/js/2.f07f70c8.chunk.js",
+    "static/js/2.f07f70c8.chunk.js.map": "/build-388/static/js/2.f07f70c8.chunk.js.map",
+    "static/js/3.e83f1dfa.chunk.js": "/build-388/static/js/3.e83f1dfa.chunk.js",
+    "static/js/3.e83f1dfa.chunk.js.map": "/build-388/static/js/3.e83f1dfa.chunk.js.map",
+    "static/js/4.049ef3b8.chunk.js": "/build-388/static/js/4.049ef3b8.chunk.js",
+    "static/js/4.049ef3b8.chunk.js.map": "/build-388/static/js/4.049ef3b8.chunk.js.map",
+    "index.html": "/build-388/index.html",
+    "precache-manifest.f0ae07b43bd3bc9c0215d33e926296b7.js": "/build-388/precache-manifest.f0ae07b43bd3bc9c0215d33e926296b7.js",
+    "service-worker.js": "/build-388/service-worker.js",
+    "static/media/iran.png": "/build-388/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-388/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b4da2e7.js",
+    "static/js/3.e83f1dfa.chunk.js",
+    "static/js/main.06a41cd0.chunk.js"
+  ]
+}
