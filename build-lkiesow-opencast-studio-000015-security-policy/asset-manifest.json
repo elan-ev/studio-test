@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-lkiesow-opencast-studio-000015-security-policy/static/js/main.fba0fe03.chunk.js",
+    "main.js.map": "/build-lkiesow-opencast-studio-000015-security-policy/static/js/main.fba0fe03.chunk.js.map",
+    "runtime-main.js": "/build-lkiesow-opencast-studio-000015-security-policy/static/js/runtime-main.4f666ba2.js",
+    "runtime-main.js.map": "/build-lkiesow-opencast-studio-000015-security-policy/static/js/runtime-main.4f666ba2.js.map",
+    "static/js/2.9f488733.chunk.js": "/build-lkiesow-opencast-studio-000015-security-policy/static/js/2.9f488733.chunk.js",
+    "static/js/2.9f488733.chunk.js.map": "/build-lkiesow-opencast-studio-000015-security-policy/static/js/2.9f488733.chunk.js.map",
+    "static/js/3.66f0e4ca.chunk.js": "/build-lkiesow-opencast-studio-000015-security-policy/static/js/3.66f0e4ca.chunk.js",
+    "static/js/3.66f0e4ca.chunk.js.map": "/build-lkiesow-opencast-studio-000015-security-policy/static/js/3.66f0e4ca.chunk.js.map",
+    "static/js/4.a3a4c423.chunk.js": "/build-lkiesow-opencast-studio-000015-security-policy/static/js/4.a3a4c423.chunk.js",
+    "static/js/4.a3a4c423.chunk.js.map": "/build-lkiesow-opencast-studio-000015-security-policy/static/js/4.a3a4c423.chunk.js.map",
+    "index.html": "/build-lkiesow-opencast-studio-000015-security-policy/index.html",
+    "precache-manifest.e6defb049b96b37a8821bbcf6c278e48.js": "/build-lkiesow-opencast-studio-000015-security-policy/precache-manifest.e6defb049b96b37a8821bbcf6c278e48.js",
+    "service-worker.js": "/build-lkiesow-opencast-studio-000015-security-policy/service-worker.js",
+    "static/media/iran.png": "/build-lkiesow-opencast-studio-000015-security-policy/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-lkiesow-opencast-studio-000015-security-policy/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f666ba2.js",
+    "static/js/3.66f0e4ca.chunk.js",
+    "static/js/main.fba0fe03.chunk.js"
+  ]
+}
