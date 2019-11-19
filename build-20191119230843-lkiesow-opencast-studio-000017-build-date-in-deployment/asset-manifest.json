@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/js/main.0c81bdec.chunk.js",
+    "main.js.map": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/js/main.0c81bdec.chunk.js.map",
+    "runtime-main.js": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/js/runtime-main.ed000e50.js",
+    "runtime-main.js.map": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/js/runtime-main.ed000e50.js.map",
+    "static/js/2.9f488733.chunk.js": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/js/2.9f488733.chunk.js",
+    "static/js/2.9f488733.chunk.js.map": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/js/2.9f488733.chunk.js.map",
+    "static/js/3.ab5eb70f.chunk.js": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/js/3.ab5eb70f.chunk.js",
+    "static/js/3.ab5eb70f.chunk.js.map": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/js/3.ab5eb70f.chunk.js.map",
+    "static/js/4.f31fbce9.chunk.js": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/js/4.f31fbce9.chunk.js",
+    "static/js/4.f31fbce9.chunk.js.map": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/js/4.f31fbce9.chunk.js.map",
+    "index.html": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/index.html",
+    "precache-manifest.53f9cfaa996a7f4daa7d4bb8a07c84bf.js": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/precache-manifest.53f9cfaa996a7f4daa7d4bb8a07c84bf.js",
+    "service-worker.js": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/service-worker.js",
+    "static/media/iran.png": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-20191119230843-lkiesow-opencast-studio-000017-build-date-in-deployment/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed000e50.js",
+    "static/js/3.ab5eb70f.chunk.js",
+    "static/js/main.0c81bdec.chunk.js"
+  ]
+}
