@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/js/main.c015c6c2.chunk.js",
+    "main.js.map": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/js/main.c015c6c2.chunk.js.map",
+    "runtime-main.js": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/js/runtime-main.7c1f381f.js",
+    "runtime-main.js.map": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/js/runtime-main.7c1f381f.js.map",
+    "static/js/2.9f488733.chunk.js": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/js/2.9f488733.chunk.js",
+    "static/js/2.9f488733.chunk.js.map": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/js/2.9f488733.chunk.js.map",
+    "static/js/3.ab5eb70f.chunk.js": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/js/3.ab5eb70f.chunk.js",
+    "static/js/3.ab5eb70f.chunk.js.map": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/js/3.ab5eb70f.chunk.js.map",
+    "static/js/4.dd4d6ce5.chunk.js": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/js/4.dd4d6ce5.chunk.js",
+    "static/js/4.dd4d6ce5.chunk.js.map": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/js/4.dd4d6ce5.chunk.js.map",
+    "index.html": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/index.html",
+    "precache-manifest.e3c8db10e2f3f95b12e8a40d2df3bf5b.js": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/precache-manifest.e3c8db10e2f3f95b12e8a40d2df3bf5b.js",
+    "service-worker.js": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/service-worker.js",
+    "static/media/iran.png": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-elan-ev-opencast-studio-000491-dependabot-npm-and-yarn-sentry-browser-5-9-1/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c1f381f.js",
+    "static/js/3.ab5eb70f.chunk.js",
+    "static/js/main.c015c6c2.chunk.js"
+  ]
+}
