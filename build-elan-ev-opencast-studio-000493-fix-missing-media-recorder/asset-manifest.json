@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/js/main.3aa5554c.chunk.js",
+    "main.js.map": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/js/main.3aa5554c.chunk.js.map",
+    "runtime-main.js": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/js/runtime-main.bda51f63.js",
+    "runtime-main.js.map": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/js/runtime-main.bda51f63.js.map",
+    "static/js/2.9f488733.chunk.js": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/js/2.9f488733.chunk.js",
+    "static/js/2.9f488733.chunk.js.map": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/js/2.9f488733.chunk.js.map",
+    "static/js/3.66f0e4ca.chunk.js": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/js/3.66f0e4ca.chunk.js",
+    "static/js/3.66f0e4ca.chunk.js.map": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/js/3.66f0e4ca.chunk.js.map",
+    "static/js/4.28a412d3.chunk.js": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/js/4.28a412d3.chunk.js",
+    "static/js/4.28a412d3.chunk.js.map": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/js/4.28a412d3.chunk.js.map",
+    "index.html": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/index.html",
+    "precache-manifest.64279135598085fa6306c1d816be1fe7.js": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/precache-manifest.64279135598085fa6306c1d816be1fe7.js",
+    "service-worker.js": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/service-worker.js",
+    "static/media/iran.png": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-elan-ev-opencast-studio-000493-fix-missing-media-recorder/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bda51f63.js",
+    "static/js/3.66f0e4ca.chunk.js",
+    "static/js/main.3aa5554c.chunk.js"
+  ]
+}
