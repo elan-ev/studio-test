@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/js/main.0556633d.chunk.js",
+    "main.js.map": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/js/main.0556633d.chunk.js.map",
+    "runtime-main.js": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/js/runtime-main.5bad7b41.js",
+    "runtime-main.js.map": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/js/runtime-main.5bad7b41.js.map",
+    "static/js/2.8c4406b5.chunk.js": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/js/2.8c4406b5.chunk.js",
+    "static/js/2.8c4406b5.chunk.js.map": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/js/2.8c4406b5.chunk.js.map",
+    "static/js/3.66f0e4ca.chunk.js": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/js/3.66f0e4ca.chunk.js",
+    "static/js/3.66f0e4ca.chunk.js.map": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/js/3.66f0e4ca.chunk.js.map",
+    "static/js/4.68d363f9.chunk.js": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/js/4.68d363f9.chunk.js",
+    "static/js/4.68d363f9.chunk.js.map": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/js/4.68d363f9.chunk.js.map",
+    "index.html": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/index.html",
+    "precache-manifest.e43e687aecceef6d7605097ef815dd7b.js": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/precache-manifest.e43e687aecceef6d7605097ef815dd7b.js",
+    "service-worker.js": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/service-worker.js",
+    "static/media/iran.png": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-elan-ev-opencast-studio-000499-feat-upload-settings-page/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bad7b41.js",
+    "static/js/3.66f0e4ca.chunk.js",
+    "static/js/main.0556633d.chunk.js"
+  ]
+}
