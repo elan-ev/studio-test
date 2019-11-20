@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/js/main.7133e7dd.chunk.js",
+    "main.js.map": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/js/main.7133e7dd.chunk.js.map",
+    "runtime-main.js": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/js/runtime-main.cacc4b94.js",
+    "runtime-main.js.map": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/js/runtime-main.cacc4b94.js.map",
+    "static/js/2.9f488733.chunk.js": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/js/2.9f488733.chunk.js",
+    "static/js/2.9f488733.chunk.js.map": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/js/2.9f488733.chunk.js.map",
+    "static/js/3.1d5f4c0b.chunk.js": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/js/3.1d5f4c0b.chunk.js",
+    "static/js/3.1d5f4c0b.chunk.js.map": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/js/3.1d5f4c0b.chunk.js.map",
+    "static/js/4.25765c17.chunk.js": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/js/4.25765c17.chunk.js",
+    "static/js/4.25765c17.chunk.js.map": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/js/4.25765c17.chunk.js.map",
+    "index.html": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/index.html",
+    "precache-manifest.037a19681475e29d3f0288f4a9f0e0c8.js": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/precache-manifest.037a19681475e29d3f0288f4a9f0e0c8.js",
+    "service-worker.js": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/service-worker.js",
+    "static/media/iran.png": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-20191120081429-elan-ev-opencast-studio-000524-fix-handlebars-again/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cacc4b94.js",
+    "static/js/3.1d5f4c0b.chunk.js",
+    "static/js/main.7133e7dd.chunk.js"
+  ]
+}
