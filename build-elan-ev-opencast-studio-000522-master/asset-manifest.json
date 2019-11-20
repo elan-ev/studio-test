@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-elan-ev-opencast-studio-000522-master/static/js/main.ec1421f4.chunk.js",
+    "main.js.map": "/build-elan-ev-opencast-studio-000522-master/static/js/main.ec1421f4.chunk.js.map",
+    "runtime-main.js": "/build-elan-ev-opencast-studio-000522-master/static/js/runtime-main.1ede6225.js",
+    "runtime-main.js.map": "/build-elan-ev-opencast-studio-000522-master/static/js/runtime-main.1ede6225.js.map",
+    "static/js/2.9f488733.chunk.js": "/build-elan-ev-opencast-studio-000522-master/static/js/2.9f488733.chunk.js",
+    "static/js/2.9f488733.chunk.js.map": "/build-elan-ev-opencast-studio-000522-master/static/js/2.9f488733.chunk.js.map",
+    "static/js/3.1d5f4c0b.chunk.js": "/build-elan-ev-opencast-studio-000522-master/static/js/3.1d5f4c0b.chunk.js",
+    "static/js/3.1d5f4c0b.chunk.js.map": "/build-elan-ev-opencast-studio-000522-master/static/js/3.1d5f4c0b.chunk.js.map",
+    "static/js/4.1cf9e9d4.chunk.js": "/build-elan-ev-opencast-studio-000522-master/static/js/4.1cf9e9d4.chunk.js",
+    "static/js/4.1cf9e9d4.chunk.js.map": "/build-elan-ev-opencast-studio-000522-master/static/js/4.1cf9e9d4.chunk.js.map",
+    "index.html": "/build-elan-ev-opencast-studio-000522-master/index.html",
+    "precache-manifest.ef85fa62efd3ec462a2f48fca172c3d7.js": "/build-elan-ev-opencast-studio-000522-master/precache-manifest.ef85fa62efd3ec462a2f48fca172c3d7.js",
+    "service-worker.js": "/build-elan-ev-opencast-studio-000522-master/service-worker.js",
+    "static/media/iran.png": "/build-elan-ev-opencast-studio-000522-master/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-elan-ev-opencast-studio-000522-master/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ede6225.js",
+    "static/js/3.1d5f4c0b.chunk.js",
+    "static/js/main.ec1421f4.chunk.js"
+  ]
+}
