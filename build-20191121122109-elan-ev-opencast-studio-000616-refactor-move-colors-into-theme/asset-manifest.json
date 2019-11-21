@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/js/main.14a3e946.chunk.js",
+    "main.js.map": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/js/main.14a3e946.chunk.js.map",
+    "runtime-main.js": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/js/runtime-main.e3232a84.js",
+    "runtime-main.js.map": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/js/runtime-main.e3232a84.js.map",
+    "static/js/2.9d9348f7.chunk.js": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/js/2.9d9348f7.chunk.js",
+    "static/js/2.9d9348f7.chunk.js.map": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/js/2.9d9348f7.chunk.js.map",
+    "static/js/3.0c6ca0cd.chunk.js": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/js/3.0c6ca0cd.chunk.js",
+    "static/js/3.0c6ca0cd.chunk.js.map": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/js/3.0c6ca0cd.chunk.js.map",
+    "static/js/4.506a3f9c.chunk.js": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/js/4.506a3f9c.chunk.js",
+    "static/js/4.506a3f9c.chunk.js.map": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/js/4.506a3f9c.chunk.js.map",
+    "index.html": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/index.html",
+    "precache-manifest.4f78f042e1d044efecf2630fa9c06399.js": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/precache-manifest.4f78f042e1d044efecf2630fa9c06399.js",
+    "service-worker.js": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/service-worker.js",
+    "static/media/iran.png": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-20191121122109-elan-ev-opencast-studio-000616-refactor-move-colors-into-theme/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3232a84.js",
+    "static/js/3.0c6ca0cd.chunk.js",
+    "static/js/main.14a3e946.chunk.js"
+  ]
+}
