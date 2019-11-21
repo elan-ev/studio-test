@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/js/main.ecc91754.chunk.js",
+    "main.js.map": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/js/main.ecc91754.chunk.js.map",
+    "runtime-main.js": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/js/runtime-main.3bc0ab0e.js",
+    "runtime-main.js.map": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/js/runtime-main.3bc0ab0e.js.map",
+    "static/js/2.77f775c1.chunk.js": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/js/2.77f775c1.chunk.js",
+    "static/js/2.77f775c1.chunk.js.map": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/js/2.77f775c1.chunk.js.map",
+    "static/js/3.6022d81e.chunk.js": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/js/3.6022d81e.chunk.js",
+    "static/js/3.6022d81e.chunk.js.map": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/js/3.6022d81e.chunk.js.map",
+    "static/js/4.2c218c7b.chunk.js": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/js/4.2c218c7b.chunk.js",
+    "static/js/4.2c218c7b.chunk.js.map": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/js/4.2c218c7b.chunk.js.map",
+    "index.html": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/index.html",
+    "precache-manifest.4cbfddab9a5df5b31ab910a2a5eafc86.js": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/precache-manifest.4cbfddab9a5df5b31ab910a2a5eafc86.js",
+    "service-worker.js": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/service-worker.js",
+    "static/media/iran.png": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-20191121231155-lkiesow-opencast-studio-000019-translation-keys/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bc0ab0e.js",
+    "static/js/3.6022d81e.chunk.js",
+    "static/js/main.ecc91754.chunk.js"
+  ]
+}
