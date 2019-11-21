@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/js/main.52471246.chunk.js",
+    "main.js.map": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/js/main.52471246.chunk.js.map",
+    "runtime-main.js": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/js/runtime-main.1d6b490f.js",
+    "runtime-main.js.map": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/js/runtime-main.1d6b490f.js.map",
+    "static/js/2.d52f3280.chunk.js": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/js/2.d52f3280.chunk.js",
+    "static/js/2.d52f3280.chunk.js.map": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/js/2.d52f3280.chunk.js.map",
+    "static/js/3.6022d81e.chunk.js": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/js/3.6022d81e.chunk.js",
+    "static/js/3.6022d81e.chunk.js.map": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/js/3.6022d81e.chunk.js.map",
+    "static/js/4.5601856d.chunk.js": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/js/4.5601856d.chunk.js",
+    "static/js/4.5601856d.chunk.js.map": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/js/4.5601856d.chunk.js.map",
+    "index.html": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/index.html",
+    "precache-manifest.138cfa5ebc4342d9cc03a0cdfe0f9778.js": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/precache-manifest.138cfa5ebc4342d9cc03a0cdfe0f9778.js",
+    "service-worker.js": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/service-worker.js",
+    "static/media/iran.png": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-20191121153033-LukasKalbertodt-opencast-studio-000005-fix-useref-bug/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d6b490f.js",
+    "static/js/3.6022d81e.chunk.js",
+    "static/js/main.52471246.chunk.js"
+  ]
+}
