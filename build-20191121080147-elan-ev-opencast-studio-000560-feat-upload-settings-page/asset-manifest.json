@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/js/main.f69e658f.chunk.js",
+    "main.js.map": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/js/main.f69e658f.chunk.js.map",
+    "runtime-main.js": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/js/runtime-main.52cd319c.js",
+    "runtime-main.js.map": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/js/runtime-main.52cd319c.js.map",
+    "static/js/2.0d1de926.chunk.js": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/js/2.0d1de926.chunk.js",
+    "static/js/2.0d1de926.chunk.js.map": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/js/2.0d1de926.chunk.js.map",
+    "static/js/3.1d5f4c0b.chunk.js": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/js/3.1d5f4c0b.chunk.js",
+    "static/js/3.1d5f4c0b.chunk.js.map": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/js/3.1d5f4c0b.chunk.js.map",
+    "static/js/4.fcadb457.chunk.js": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/js/4.fcadb457.chunk.js",
+    "static/js/4.fcadb457.chunk.js.map": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/js/4.fcadb457.chunk.js.map",
+    "index.html": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/index.html",
+    "precache-manifest.419d4cb34a8344b2bca0dcde652f7815.js": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/precache-manifest.419d4cb34a8344b2bca0dcde652f7815.js",
+    "service-worker.js": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/service-worker.js",
+    "static/media/iran.png": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-20191121080147-elan-ev-opencast-studio-000560-feat-upload-settings-page/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52cd319c.js",
+    "static/js/3.1d5f4c0b.chunk.js",
+    "static/js/main.f69e658f.chunk.js"
+  ]
+}
