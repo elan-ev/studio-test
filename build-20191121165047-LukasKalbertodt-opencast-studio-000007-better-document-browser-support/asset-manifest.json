@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/js/main.21a341f2.chunk.js",
+    "main.js.map": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/js/main.21a341f2.chunk.js.map",
+    "runtime-main.js": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/js/runtime-main.6f7cc6ee.js",
+    "runtime-main.js.map": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/js/runtime-main.6f7cc6ee.js.map",
+    "static/js/2.d52f3280.chunk.js": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/js/2.d52f3280.chunk.js",
+    "static/js/2.d52f3280.chunk.js.map": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/js/2.d52f3280.chunk.js.map",
+    "static/js/3.6022d81e.chunk.js": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/js/3.6022d81e.chunk.js",
+    "static/js/3.6022d81e.chunk.js.map": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/js/3.6022d81e.chunk.js.map",
+    "static/js/4.36ab1528.chunk.js": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/js/4.36ab1528.chunk.js",
+    "static/js/4.36ab1528.chunk.js.map": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/js/4.36ab1528.chunk.js.map",
+    "index.html": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/index.html",
+    "precache-manifest.a9b5fb6f855d87214329ac542f065b76.js": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/precache-manifest.a9b5fb6f855d87214329ac542f065b76.js",
+    "service-worker.js": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/service-worker.js",
+    "static/media/iran.png": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-20191121165047-LukasKalbertodt-opencast-studio-000007-better-document-browser-support/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f7cc6ee.js",
+    "static/js/3.6022d81e.chunk.js",
+    "static/js/main.21a341f2.chunk.js"
+  ]
+}
