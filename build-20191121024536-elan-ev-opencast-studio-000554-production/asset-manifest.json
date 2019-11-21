@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/js/main.74bf3d77.chunk.js",
+    "main.js.map": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/js/main.74bf3d77.chunk.js.map",
+    "runtime-main.js": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/js/runtime-main.305b3a2b.js",
+    "runtime-main.js.map": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/js/runtime-main.305b3a2b.js.map",
+    "static/js/2.89b21343.chunk.js": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/js/2.89b21343.chunk.js",
+    "static/js/2.89b21343.chunk.js.map": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/js/2.89b21343.chunk.js.map",
+    "static/js/3.1d5f4c0b.chunk.js": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/js/3.1d5f4c0b.chunk.js",
+    "static/js/3.1d5f4c0b.chunk.js.map": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/js/3.1d5f4c0b.chunk.js.map",
+    "static/js/4.6e673e57.chunk.js": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/js/4.6e673e57.chunk.js",
+    "static/js/4.6e673e57.chunk.js.map": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/js/4.6e673e57.chunk.js.map",
+    "index.html": "/build-20191121024536-elan-ev-opencast-studio-000554-production/index.html",
+    "precache-manifest.8b2ed1685a09e2d618d3dcc4245fda77.js": "/build-20191121024536-elan-ev-opencast-studio-000554-production/precache-manifest.8b2ed1685a09e2d618d3dcc4245fda77.js",
+    "service-worker.js": "/build-20191121024536-elan-ev-opencast-studio-000554-production/service-worker.js",
+    "static/media/iran.png": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-20191121024536-elan-ev-opencast-studio-000554-production/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.305b3a2b.js",
+    "static/js/3.1d5f4c0b.chunk.js",
+    "static/js/main.74bf3d77.chunk.js"
+  ]
+}
