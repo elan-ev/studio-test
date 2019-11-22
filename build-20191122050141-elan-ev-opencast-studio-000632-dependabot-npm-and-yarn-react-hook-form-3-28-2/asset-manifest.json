@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/js/main.25dad710.chunk.js",
+    "main.js.map": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/js/main.25dad710.chunk.js.map",
+    "runtime-main.js": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/js/runtime-main.6cb718f4.js",
+    "runtime-main.js.map": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/js/runtime-main.6cb718f4.js.map",
+    "static/js/2.aa4d62a2.chunk.js": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/js/2.aa4d62a2.chunk.js",
+    "static/js/2.aa4d62a2.chunk.js.map": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/js/2.aa4d62a2.chunk.js.map",
+    "static/js/3.6022d81e.chunk.js": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/js/3.6022d81e.chunk.js",
+    "static/js/3.6022d81e.chunk.js.map": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/js/3.6022d81e.chunk.js.map",
+    "static/js/4.4286c48e.chunk.js": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/js/4.4286c48e.chunk.js",
+    "static/js/4.4286c48e.chunk.js.map": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/js/4.4286c48e.chunk.js.map",
+    "index.html": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/index.html",
+    "precache-manifest.81ff58bf5e52877b9dcf6b4a4fe494d0.js": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/precache-manifest.81ff58bf5e52877b9dcf6b4a4fe494d0.js",
+    "service-worker.js": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/service-worker.js",
+    "static/media/iran.png": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/media/iran.2f67c196.png",
+    "static/media/united-kingdom.png": "/build-20191122050141-elan-ev-opencast-studio-000632-dependabot-npm-and-yarn-react-hook-form-3-28-2/static/media/united-kingdom.6f382b2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cb718f4.js",
+    "static/js/3.6022d81e.chunk.js",
+    "static/js/main.25dad710.chunk.js"
+  ]
+}
