@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/main.bc3b55ad.chunk.js",
+    "main.js.map": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/main.bc3b55ad.chunk.js.map",
+    "runtime-main.js": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/runtime-main.b59affc7.js",
+    "runtime-main.js.map": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/runtime-main.b59affc7.js.map",
+    "static/js/2.9cfa76e3.chunk.js": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/2.9cfa76e3.chunk.js",
+    "static/js/2.9cfa76e3.chunk.js.map": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/2.9cfa76e3.chunk.js.map",
+    "static/js/3.784e4aa7.chunk.js": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/3.784e4aa7.chunk.js",
+    "static/js/3.784e4aa7.chunk.js.map": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/3.784e4aa7.chunk.js.map",
+    "static/js/4.5a889bb9.chunk.js": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/4.5a889bb9.chunk.js",
+    "static/js/4.5a889bb9.chunk.js.map": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/4.5a889bb9.chunk.js.map",
+    "index.html": "/build-20200701072958-elan-ev-opencast-studio-002042-master/index.html",
+    "precache-manifest.415180a4c19a7ea6f23fb92415f94d7d.js": "/build-20200701072958-elan-ev-opencast-studio-002042-master/precache-manifest.415180a4c19a7ea6f23fb92415f94d7d.js",
+    "service-worker.js": "/build-20200701072958-elan-ev-opencast-studio-002042-master/service-worker.js",
+    "static/js/2.9cfa76e3.chunk.js.LICENSE.txt": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/2.9cfa76e3.chunk.js.LICENSE.txt",
+    "static/js/3.784e4aa7.chunk.js.LICENSE.txt": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/js/3.784e4aa7.chunk.js.LICENSE.txt",
+    "static/media/cut-here-icon.6343c848.svg": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/media/cut-here-icon.6343c848.svg",
+    "static/media/cut-out-icon.475c233a.svg": "/build-20200701072958-elan-ev-opencast-studio-002042-master/static/media/cut-out-icon.475c233a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b59affc7.js",
+    "static/js/2.9cfa76e3.chunk.js",
+    "static/js/main.bc3b55ad.chunk.js"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/main.cf46ad4c.chunk.js",
+    "main.js.map": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/main.cf46ad4c.chunk.js.map",
+    "runtime-main.js": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/runtime-main.50b5cc52.js",
+    "runtime-main.js.map": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/runtime-main.50b5cc52.js.map",
+    "static/js/2.0c461b5c.chunk.js": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/2.0c461b5c.chunk.js",
+    "static/js/2.0c461b5c.chunk.js.map": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/2.0c461b5c.chunk.js.map",
+    "static/js/3.533c943d.chunk.js": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/3.533c943d.chunk.js",
+    "static/js/3.533c943d.chunk.js.map": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/3.533c943d.chunk.js.map",
+    "static/js/4.23ea9344.chunk.js": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/4.23ea9344.chunk.js",
+    "static/js/4.23ea9344.chunk.js.map": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/4.23ea9344.chunk.js.map",
+    "index.html": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/index.html",
+    "precache-manifest.ed9b30df0d1f3d94ddd46cf9030e1104.js": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/precache-manifest.ed9b30df0d1f3d94ddd46cf9030e1104.js",
+    "service-worker.js": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/service-worker.js",
+    "static/js/2.0c461b5c.chunk.js.LICENSE.txt": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/2.0c461b5c.chunk.js.LICENSE.txt",
+    "static/js/3.533c943d.chunk.js.LICENSE.txt": "/build-20200210124101-LukasKalbertodt-opencast-studio-000071-master/static/js/3.533c943d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50b5cc52.js",
+    "static/js/2.0c461b5c.chunk.js",
+    "static/js/main.cf46ad4c.chunk.js"
+  ]
+}

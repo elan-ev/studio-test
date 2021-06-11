@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/main.d888f045.chunk.js",
+    "main.js.map": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/main.d888f045.chunk.js.map",
+    "runtime-main.js": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/runtime-main.22741feb.js",
+    "runtime-main.js.map": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/runtime-main.22741feb.js.map",
+    "static/js/2.369e4386.chunk.js": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/2.369e4386.chunk.js",
+    "static/js/2.369e4386.chunk.js.map": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/2.369e4386.chunk.js.map",
+    "static/js/3.0f64a9be.chunk.js": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/3.0f64a9be.chunk.js",
+    "static/js/3.0f64a9be.chunk.js.map": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/3.0f64a9be.chunk.js.map",
+    "static/js/4.20a6f3dc.chunk.js": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/4.20a6f3dc.chunk.js",
+    "static/js/4.20a6f3dc.chunk.js.map": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/4.20a6f3dc.chunk.js.map",
+    "index.html": "/build-20191231141027-elan-ev-opencast-studio-001013-master/index.html",
+    "precache-manifest.879cc396febfa1c564587b620228731e.js": "/build-20191231141027-elan-ev-opencast-studio-001013-master/precache-manifest.879cc396febfa1c564587b620228731e.js",
+    "service-worker.js": "/build-20191231141027-elan-ev-opencast-studio-001013-master/service-worker.js",
+    "static/js/2.369e4386.chunk.js.LICENSE": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/2.369e4386.chunk.js.LICENSE",
+    "static/js/3.0f64a9be.chunk.js.LICENSE": "/build-20191231141027-elan-ev-opencast-studio-001013-master/static/js/3.0f64a9be.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22741feb.js",
+    "static/js/3.0f64a9be.chunk.js",
+    "static/js/main.d888f045.chunk.js"
+  ]
+}

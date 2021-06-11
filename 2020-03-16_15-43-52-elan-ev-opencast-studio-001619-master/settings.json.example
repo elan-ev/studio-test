@@ -1,0 +1,7 @@
+{
+  "opencast": {
+    "serverUrl": "https://develop.opencast.org/",
+    "loginName": "admin",
+    "loginPassword": "opencast"
+  }
+}
