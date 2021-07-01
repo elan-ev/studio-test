@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/main.b65afe8c.chunk.js",
+    "main.js.map": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/main.b65afe8c.chunk.js.map",
+    "runtime-main.js": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/runtime-main.6f01ab53.js",
+    "runtime-main.js.map": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/runtime-main.6f01ab53.js.map",
+    "static/js/2.b19811eb.chunk.js": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/2.b19811eb.chunk.js",
+    "static/js/2.b19811eb.chunk.js.map": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/2.b19811eb.chunk.js.map",
+    "static/js/3.54620add.chunk.js": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/3.54620add.chunk.js",
+    "static/js/3.54620add.chunk.js.map": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/3.54620add.chunk.js.map",
+    "static/js/4.eb294ae1.chunk.js": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/4.eb294ae1.chunk.js",
+    "static/js/4.eb294ae1.chunk.js.map": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/4.eb294ae1.chunk.js.map",
+    "index.html": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/index.html",
+    "static/js/2.b19811eb.chunk.js.LICENSE.txt": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/2.b19811eb.chunk.js.LICENSE.txt",
+    "static/js/3.54620add.chunk.js.LICENSE.txt": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/js/3.54620add.chunk.js.LICENSE.txt",
+    "static/media/cut-here-icon.0a56383d.svg": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/media/cut-here-icon.0a56383d.svg",
+    "static/media/cut-out-icon.069c1997.svg": "/2021-07-01_07-36-37-elan-ev-989185987-dependabot-npm_and_yarn-i18next-20-3-2/static/media/cut-out-icon.069c1997.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f01ab53.js",
+    "static/js/2.b19811eb.chunk.js",
+    "static/js/main.b65afe8c.chunk.js"
+  ]
+}
