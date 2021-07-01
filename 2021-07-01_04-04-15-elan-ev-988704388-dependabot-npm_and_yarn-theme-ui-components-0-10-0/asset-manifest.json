@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/main.321244f9.chunk.js",
+    "main.js.map": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/main.321244f9.chunk.js.map",
+    "runtime-main.js": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/runtime-main.c8d9c088.js",
+    "runtime-main.js.map": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/runtime-main.c8d9c088.js.map",
+    "static/js/2.2b415132.chunk.js": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/2.2b415132.chunk.js",
+    "static/js/2.2b415132.chunk.js.map": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/2.2b415132.chunk.js.map",
+    "static/js/3.a60c8d64.chunk.js": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/3.a60c8d64.chunk.js",
+    "static/js/3.a60c8d64.chunk.js.map": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/3.a60c8d64.chunk.js.map",
+    "static/js/4.ce729b80.chunk.js": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/4.ce729b80.chunk.js",
+    "static/js/4.ce729b80.chunk.js.map": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/4.ce729b80.chunk.js.map",
+    "index.html": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/index.html",
+    "static/js/2.2b415132.chunk.js.LICENSE.txt": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/2.2b415132.chunk.js.LICENSE.txt",
+    "static/js/3.a60c8d64.chunk.js.LICENSE.txt": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/js/3.a60c8d64.chunk.js.LICENSE.txt",
+    "static/media/cut-here-icon.0a56383d.svg": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/media/cut-here-icon.0a56383d.svg",
+    "static/media/cut-out-icon.069c1997.svg": "/2021-07-01_04-04-15-elan-ev-988704388-dependabot-npm_and_yarn-theme-ui-components-0-10-0/static/media/cut-out-icon.069c1997.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8d9c088.js",
+    "static/js/2.2b415132.chunk.js",
+    "static/js/main.321244f9.chunk.js"
+  ]
+}
